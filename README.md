@@ -162,8 +162,8 @@ I'm always interested in:
 const status = {
     mode: "Building, Learning, Growing",
     focus: "Expanding technical skills through projects",
-    availability: "Open to Summer 2025 opportunities",
-    interests: ["Software Engineering", "Backend Development", "Problem Solving"],
+    availability: "Open to opportunities",
+    interests: ["Software Engineering", "Technical Development", "Problem Solving"],
     currentlyExploring: "System design and scalable architectures"
 }
 ```
