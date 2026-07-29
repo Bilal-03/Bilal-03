@@ -265,7 +265,7 @@ Developed a CRM and lead-management product with a focus on operational clarity,
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Bilal-03/Bilal-03/output/github-contribution-grid-snake-dark.svg" alt="Snake animation of GitHub contribution grid" />
+<img src="https://raw.githubusercontent.com/Bilal-03/Bilal-03/output/github-contribution-grid-snake-dark.svg?v=20260729" alt="Snake animation of GitHub contribution grid" />
 
 </div>
 
