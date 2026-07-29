@@ -228,12 +228,12 @@ Developed a CRM and lead-management product with a focus on operational clarity,
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Bilal-03&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=E9D5FF" alt="Bilal's GitHub statistics" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=Bilal-03&hide_border=true&background=0D1117&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA&sideLabels=E9D5FF&dates=C4B5FD&sideNums=E9D5FF&currStreakNum=E9D5FF" alt="Bilal's contribution streak" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Bilal-03&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=E9D5FF" alt="Bilal's GitHub statistics" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bilal-03&theme=github_dark" alt="Bilal's GitHub summary" />
 
 <br>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bilal-03&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E9D5FF" alt="Bilal's top languages" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Bilal-03&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E9D5FF" alt="Bilal's top languages" />
 
 </div>
 
@@ -243,7 +243,9 @@ Developed a CRM and lead-management product with a focus on operational clarity,
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Bilal-03&theme=discord&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub trophies" />
+![Public Repositories](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=PUBLIC%20REPOSITORIES&color=6D28D9&labelColor=312E81&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FBilal-03)
+![GitHub Followers](https://img.shields.io/github/followers/Bilal-03?style=for-the-badge&label=GITHUB%20FOLLOWERS&color=6D28D9&labelColor=312E81)
+![Profile Stars](https://img.shields.io/github/stars/Bilal-03?affiliations=OWNER&style=for-the-badge&label=PROFILE%20STARS&color=6D28D9&labelColor=312E81)
 
 </div>
 
