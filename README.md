@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:170B3B,45:4C1D95,100:7C3AED&height=220&section=header&text=Bilal%20Choudhary&fontSize=48&fontColor=F5F3FF&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20%26%20ML%20%7C%20Product%20Builder&descAlignY=58&descSize=17&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:170B3B,45:4C1D95,100:7C3AED&height=220&section=header&text=Bilal%20Choudhary&fontSize=48&fontColor=F5F3FF&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20and%20ML%20%7C%20Product%20Builder&descAlignY=58&descSize=17&animation=fadeIn)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=720&lines=Engineering+reliable+software+and+intelligent+products;Building+full-stack+systems+with+AI+at+the+core;Turning+ambiguous+problems+into+useful+experiences)](https://git.io/typing-svg)
 
