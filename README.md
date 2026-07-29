@@ -243,7 +243,7 @@ Developed a CRM and lead-management product with a focus on operational clarity,
 
 <div align="center">
 
-![Public Repositories](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=PUBLIC%20REPOSITORIES&color=6D28D9&labelColor=312E81&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FBilal-03)
+![Public Repositories](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=PUBLIC%20REPOSITORIES&color=6D28D9&labelColor=312E81&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FBilal-03&cacheSeconds=86400)
 ![GitHub Followers](https://img.shields.io/github/followers/Bilal-03?style=for-the-badge&label=GITHUB%20FOLLOWERS&color=6D28D9&labelColor=312E81)
 ![Profile Stars](https://img.shields.io/github/stars/Bilal-03?affiliations=OWNER&style=for-the-badge&label=PROFILE%20STARS&color=6D28D9&labelColor=312E81)
 
