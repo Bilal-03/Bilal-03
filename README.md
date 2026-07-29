@@ -8,7 +8,7 @@
 ![VIT Chennai](https://img.shields.io/badge/VIT-Chennai-312E81?style=for-the-badge&logo=google-scholar&logoColor=white)
 ![Delhi, India](https://img.shields.io/badge/Delhi-India-4338CA?style=for-the-badge&logo=googlemaps&logoColor=white)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Explore%20Work-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Bilal-03)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore%20Work-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://bilalchoudhary.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bilal2012)
 [![Email](https://img.shields.io/badge/Email-Get%20in%20Touch-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bilal3512@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Bilal--03-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bilal-03)
@@ -72,7 +72,7 @@ I am drawn to the full journey: understanding a user problem, shaping the produc
 
 **Cloud, DevOps & Tooling**
 
-![Docker](https://skillicons.dev/icons?i=docker) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Vercel](https://skillicons.dev/icons?i=vercel) ![Jupyter](https://skillicons.dev/icons?i=jupyter) ![Google Cloud](https://skillicons.dev/icons?i=gcp)
+![Docker](https://skillicons.dev/icons?i=docker) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Vercel](https://img.shields.io/badge/Vercel-FFFFFF?style=for-the-badge&logo=vercel&logoColor=000000) ![Jupyter](https://skillicons.dev/icons?i=jupyter) ![Google Cloud](https://skillicons.dev/icons?i=gcp)
 
 </div>
 
@@ -282,7 +282,7 @@ open_to:
 [![Gmail](https://img.shields.io/badge/Gmail-bilal3512%40gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bilal3512@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-bilal2012-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bilal2012)
 [![GitHub](https://img.shields.io/badge/GitHub-Bilal--03-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bilal-03)
-[![Portfolio](https://img.shields.io/badge/Portfolio-GitHub%20Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Bilal-03)
+[![Portfolio](https://img.shields.io/badge/Portfolio-bilalchoudhary.vercel.app-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://bilalchoudhary.vercel.app)
 
 </div>
 
