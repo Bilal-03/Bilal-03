@@ -1,8 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:170B3B,45:4C1D95,100:7C3AED&height=220&section=header&text=Bilal%20Choudhary&fontSize=48&fontColor=F5F3FF&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20and%20ML%20%7C%20Product%20Builder&descAlignY=58&descSize=17&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:170B3B,45:4C1D95,100:7C3AED&height=220&section=header&text=Bilal%20Choudhary&fontSize=48&fontColor=F5F3FF&fontAlignY=38&desc=Product-minded%20Builder%20%7C%20AI-assisted%20Development%20%7C%20Problem%20Solver&descAlignY=58&descSize=17&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=720&lines=Engineering+reliable+software+and+intelligent+products;Building+full-stack+systems+with+AI+at+the+core;Turning+ambiguous+problems+into+useful+experiences)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=720&lines=Turning+ideas+into+useful+products;Exploring+AI-assisted+development+and+automation;Solving+problems+through+technology+and+product+thinking)](https://git.io/typing-svg)
 
 ![B.Tech CSE (AI & ML)](https://img.shields.io/badge/B.Tech-CSE%20(AI%20%26%20ML)-5B21B6?style=for-the-badge&logo=academia&logoColor=white)
 ![VIT Chennai](https://img.shields.io/badge/VIT-Chennai-312E81?style=for-the-badge&logo=google-scholar&logoColor=white)
@@ -23,30 +23,30 @@
 
 ## About
 
-Software engineer with a B.Tech in Computer Science and Engineering (AI & ML) from VIT Chennai. I build dependable full-stack products and intelligent systems that make complex workflows clearer, faster, and easier to operate.
+Product-minded technology enthusiast with a B.Tech in Computer Science and Engineering (AI & ML) from VIT Chennai. I enjoy using AI-assisted development to turn messy, everyday problems into useful products and experiments.
 
-My work sits at the intersection of product engineering and applied AI: responsive web interfaces, secure APIs, data workflows, retrieval-augmented systems, and practical automation. I care about the details that make software useful in the real world - clean architecture, measurable performance, thoughtful UX, and resilient delivery.
+I am drawn to the full journey: understanding a user problem, shaping the product idea, building a practical first version, and improving it through feedback. I explore applied AI, automation, and scalable product foundations - with an equal interest in technology, business context, and product management.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**Engineering focus**
+**What I enjoy building**
 
-- Full-stack product development
-- AI/ML and LLM-powered workflows
-- API design and backend services
-- Data extraction and automation
+- Useful web products and prototypes
+- AI-assisted workflows and automation
+- Product ideas with a clear user problem
+- Scalable foundations for things worth growing
 
 </td>
 <td width="50%" valign="top">
 
 **Open to**
 
-- Software engineering opportunities
-- AI engineering and applied ML roles
-- Product-focused teams and collaborations
-- Open-source contributions
+- Product, business, and technology conversations
+- AI-assisted product building
+- Early-stage teams and practical collaborations
+- Opportunities to learn by shipping useful work
 
 </td>
 </tr>
@@ -54,7 +54,7 @@ My work sits at the intersection of product engineering and applied AI: responsi
 
 ---
 
-## Tech Stack
+## Tools I Build With
 
 <div align="center">
 
@@ -78,15 +78,15 @@ My work sits at the intersection of product engineering and applied AI: responsi
 
 ---
 
-## AI / ML Expertise
+## AI / ML Exploration
 
 | Domain | Proficiency | Details |
 | :--- | :---: | :--- |
-| Generative AI | Applied | LangChain, Llama, Gemini, agent routing, prompt-driven workflows |
-| Retrieval-Augmented Generation | Applied | Pinecone, embeddings, document-grounded search, PDF workflows |
-| Natural Language Processing | Applied | spaCy, NLTK, named-entity recognition, regex-assisted extraction |
-| Computer Vision & OCR | Applied | OpenCV, Tesseract OCR, image preprocessing, validation pipelines |
-| Machine Learning | Working knowledge | TensorFlow, PyTorch, YOLO, model experimentation in notebooks |
+| Generative AI | Hands-on | LangChain, Llama, Gemini, agent routing, prompt-driven workflows |
+| Retrieval-Augmented Generation | Hands-on | Pinecone, embeddings, document-grounded search, PDF workflows |
+| Natural Language Processing | Hands-on | spaCy, NLTK, named-entity recognition, regex-assisted extraction |
+| Computer Vision & OCR | Hands-on | OpenCV, Tesseract OCR, image preprocessing, validation pipelines |
+| Machine Learning | Exploring | TensorFlow, PyTorch, YOLO, model experimentation in notebooks |
 
 ---
 
@@ -107,7 +107,7 @@ AI-powered multi-agent RAG platform that helps Indian businesses navigate legal,
 | **Impact** | Streamlines access to complex compliance information for business users |
 | **Repository** | [View GitHub profile](https://github.com/Bilal-03) |
 
-The product combines a responsive React experience with a FastAPI service layer, routing each request to the most relevant specialist agent while using vector search to keep answers anchored in source material.
+I explored a responsive React experience with a FastAPI service layer, routing requests to relevant specialist agents and using vector search to keep answers anchored in source material.
 
 </details>
 
@@ -126,7 +126,7 @@ Full-stack marketplace for buying and selling verified second-hand phones across
 | **Impact** | Creates stronger buyer and seller confidence in pre-owned-device transactions |
 | **Repository** | [View GitHub profile](https://github.com/Bilal-03) |
 
-The platform connects listing discovery to final handover, with verification and payment safeguards treated as core product capabilities rather than afterthoughts.
+The project explores how listing discovery, verification, payment safeguards, and handover can work together as one trustworthy product journey.
 
 </details>
 
@@ -145,7 +145,7 @@ Finance dashboard that brings market data, calculators, and aggregated news into
 | **Impact** | Consolidates common finance utilities into a single accessible dashboard |
 | **Repository** | [View GitHub profile](https://github.com/Bilal-03) |
 
-Built as a practical, full-stack information product with SIP, EMI, FD, and Zakat calculators alongside live market-oriented utilities.
+Built as a practical product experiment with SIP, EMI, FD, and Zakat calculators alongside live market-oriented utilities.
 
 </details>
 
@@ -211,19 +211,6 @@ Developed a CRM and lead-management product with a focus on operational clarity,
 
 ---
 
-## Coding Profiles
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-5B21B6?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-4C1D95?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-4338CA?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/)
-
-</div>
-
----
-
 ## GitHub Analytics
 
 <div align="center">
@@ -275,15 +262,15 @@ Developed a CRM and lead-management product with a focus on operational clarity,
 
 ```yaml
 learning:
-  - System design and scalable backend architecture
-  - Advanced RAG systems and agentic AI workflows
+  - Product management, business thinking, and user discovery
+  - AI-assisted development and agentic AI workflows
 building:
-  - Full-stack products that solve concrete business problems
+  - Useful product experiments with scalable foundations
 exploring:
-  - Production AI integrations, cloud deployment, and developer tooling
+  - Applied AI, automation, and technology-enabled business ideas
 open_to:
-  - Software engineering and AI engineering opportunities
-  - Meaningful open-source collaboration
+  - Product-minded teams, early-stage ideas, and collaborations
+  - Learning opportunities at the intersection of tech and business
 ```
 
 ---
@@ -303,7 +290,7 @@ open_to:
 
 <div align="center">
 
-> "Build with clarity, learn with intent, and ship work that earns trust."
+> "Start with the problem, build what is useful, and keep learning in public."
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:170B3B,45:4C1D95,100:7C3AED&height=120&section=footer)
 
