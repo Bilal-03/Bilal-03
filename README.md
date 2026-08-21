@@ -238,9 +238,9 @@ open_to:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Bilal-03&show_icons=true&hide_border=true&bg_color=FFFDF8&title_color=0B6B58&icon_color=D97962&text_color=676A62&cache_seconds=1800" alt="Bilal's GitHub statistics" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bilal-03&layout=compact&hide_border=true&bg_color=FFFDF8&title_color=0B6B58&text_color=676A62&cache_seconds=1800" alt="Bilal's most used languages" />
+[![GitHub followers](https://img.shields.io/github/followers/Bilal-03?label=Followers&style=for-the-badge&color=0B6B58)](https://github.com/Bilal-03?tab=followers)
+[![GitHub repositories](https://img.shields.io/badge/Repositories-Explore-171916?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bilal-03?tab=repositories)
+[![GitHub activity](https://img.shields.io/badge/View%20activity-Open%20GitHub-0B6B58?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bilal-03?tab=overview)
 
 </div>
 
