@@ -1,52 +1,59 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:170B3B,45:4C1D95,100:7C3AED&height=220&section=header&text=Bilal%20Choudhary&fontSize=48&fontColor=F5F3FF&fontAlignY=38&desc=Product-minded%20Builder%20%7C%20AI-assisted%20Development%20%7C%20Problem%20Solver&descAlignY=58&descSize=17&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:063B32,50:0B6B58,100:D97962&height=230&section=header&text=Bilal%20Choudhary&fontSize=48&fontColor=FFFDF8&fontAlignY=38&desc=Product%20%C2%B7%20Data%20%C2%B7%20Applied%20AI&descAlignY=60&descSize=18&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=720&lines=Turning+ideas+into+useful+products;Exploring+AI-assisted+development+and+automation;Solving+problems+through+technology+and+product+thinking)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3200&pause=900&color=0B6B58&center=true&vCenter=true&width=760&lines=Turning+problems+into+useful+products;Making+business+workflows+clearer;Exploring+RAG%2C+automation+and+AI-enabled+products)](https://git.io/typing-svg)
 
-![B.Tech CSE (AI & ML)](https://img.shields.io/badge/B.Tech-CSE%20(AI%20%26%20ML)-5B21B6?style=for-the-badge&logo=academia&logoColor=white)
-![VIT Chennai](https://img.shields.io/badge/VIT-Chennai-312E81?style=for-the-badge&logo=google-scholar&logoColor=white)
-![Delhi, India](https://img.shields.io/badge/Delhi-India-4338CA?style=for-the-badge&logo=googlemaps&logoColor=white)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore%20my%20work-0B6B58?style=for-the-badge&logo=vercel&logoColor=white)](https://bilalchoudhary.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0B6B58?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bilal2012)
+[![Email](https://img.shields.io/badge/Email-Get%20in%20touch-D97962?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bilal3512@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Bilal--03-171916?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bilal-03)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Explore%20Work-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://bilalchoudhary.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bilal2012)
-[![Email](https://img.shields.io/badge/Email-Get%20in%20Touch-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bilal3512@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Bilal--03-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bilal-03)
-
-![Profile views](https://komarev.com/ghpvc/?username=Bilal-03&style=flat-square&color=6D28D9&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/Bilal-03?style=flat-square&color=6D28D9&labelColor=312E81&label=FOLLOWERS)
-![Stars](https://img.shields.io/github/stars/Bilal-03?affiliations=OWNER&style=flat-square&color=6D28D9&labelColor=312E81&label=TOTAL+STARS)
+![Profile views](https://komarev.com/ghpvc/?username=Bilal-03&style=flat-square&color=0B6B58&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-## About
+## Hello, I’m Bilal 👋
 
-Product-minded technology enthusiast with a B.Tech in Computer Science and Engineering (AI & ML) from VIT Chennai. I enjoy using AI-assisted development to turn messy, everyday problems into useful products and experiments.
+I turn problems and data into useful products.
 
-I am drawn to the full journey: understanding a user problem, shaping the product idea, building a practical first version, and improving it through feedback. I explore applied AI, automation, and scalable product foundations - with an equal interest in technology, business context, and product management.
+My interests sit at the intersection of product thinking, analytics, business systems and applied AI. I enjoy understanding the problem behind a workflow, shaping a practical product direction, building the first version and improving it through feedback and measurement.
+
+I am especially interested in:
+
+- Product discovery, requirements and user flows
+- Business systems, workflow design and automation
+- Product analytics, KPIs and operational reporting
+- RAG applications and document-grounded AI
+- Document intelligence, OCR and human-in-the-loop workflows
+- AI-assisted prototyping and practical software execution
+
+Currently, I am working as a Project Manager while building product experiments and exploring opportunities across product, analytics, AI-enabled products and business technology.
+
+---
+
+## What I Build
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**What I enjoy building**
+### Product & Business Systems
 
-- Useful web products and prototypes
-- AI-assisted workflows and automation
-- Product ideas with a clear user problem
-- Scalable foundations for things worth growing
+I translate messy business processes into clearer workflows, useful interfaces and measurable product decisions.
+
+`Problem framing` `Requirements` `User flows` `Prioritisation` `Business analysis` `Product metrics`
 
 </td>
 <td width="50%" valign="top">
 
-**Open to**
+### Applied AI & Automation
 
-- Product, business, and technology conversations
-- AI-assisted product building
-- Early-stage teams and practical collaborations
-- Opportunities to learn by shipping useful work
+I use AI where it improves a real workflow — from retrieval and extraction to automation and decision support.
+
+`RAG` `Document AI` `OCR` `LLM applications` `Workflow automation` `AI prototyping`
 
 </td>
 </tr>
@@ -54,244 +61,207 @@ I am drawn to the full journey: understanding a user problem, shaping the produc
 
 ---
 
-## Tools I Build With
+## Tech Stack
 
 <div align="center">
 
-**Languages**
+### Languages & Application Development
 
-![Java](https://skillicons.dev/icons?i=java) ![Python](https://skillicons.dev/icons?i=python) ![C](https://skillicons.dev/icons?i=c) ![CPP](https://skillicons.dev/icons?i=cpp) ![JavaScript](https://skillicons.dev/icons?i=js) ![SQL](https://skillicons.dev/icons?i=mysql) ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css)
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,vite" alt="Python, TypeScript, JavaScript, React, Next.js and Vite" />
 
-**Frontend**
+### Backend, Data & Infrastructure
 
-![React](https://skillicons.dev/icons?i=react) ![Next.js](https://skillicons.dev/icons?i=nextjs) ![Vite](https://skillicons.dev/icons?i=vite) ![Tailwind](https://skillicons.dev/icons?i=tailwind)
+<img src="https://skillicons.dev/icons?i=fastapi,flask,postgres,supabase,docker,git,github" alt="FastAPI, Flask, PostgreSQL, Supabase, Docker, Git and GitHub" />
 
-**Backend & Databases**
+<br />
 
-![FastAPI](https://skillicons.dev/icons?i=fastapi) ![Flask](https://skillicons.dev/icons?i=flask) ![Node.js](https://skillicons.dev/icons?i=nodejs) ![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![Supabase](https://skillicons.dev/icons?i=supabase)
-
-**Cloud, DevOps & Tooling**
-
-![Docker](https://skillicons.dev/icons?i=docker) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Google Cloud](https://skillicons.dev/icons?i=gcp)
+![Product Analytics](https://img.shields.io/badge/Product%20Analytics-KPIs%20%7C%20Funnels%20%7C%20Reporting-0B6B58?style=flat-square)
+![RAG](https://img.shields.io/badge/Applied%20AI-RAG%20%7C%20Embeddings%20%7C%20Retrieval-0B6B58?style=flat-square)
+![Document AI](https://img.shields.io/badge/Document%20AI-OCR%20%7C%20Extraction%20%7C%20Validation-D97962?style=flat-square)
+![Automation](https://img.shields.io/badge/Automation-Business%20Workflows-D97962?style=flat-square)
 
 </div>
 
 ---
 
-## AI / ML Exploration
+## Selected Projects
 
-| Domain | Proficiency | Details |
-| :--- | :---: | :--- |
-| Generative AI | Hands-on | LangChain, Llama, Gemini, agent routing, prompt-driven workflows |
-| Retrieval-Augmented Generation | Hands-on | Pinecone, embeddings, document-grounded search, PDF workflows |
-| Natural Language Processing | Hands-on | spaCy, NLTK, named-entity recognition, regex-assisted extraction |
-| Computer Vision & OCR | Hands-on | OpenCV, Tesseract OCR, image preprocessing, validation pipelines |
-| Machine Learning | Exploring | TensorFlow, PyTorch, YOLO, model experimentation in notebooks |
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+<h3>Handovr</h3>
 
-## Featured Projects
+A verified marketplace for buying and selling second-hand phones, designed around trust, device verification, pricing clarity and safer handovers.
 
-<details open>
-<summary><b>BizGuide - AI Compliance Assistant</b></summary>
-<br>
+<a href="https://handovr.in">Live product ↗</a> ·
+<a href="https://bilalchoudhary.vercel.app/work/handovr">Case study ↗</a>
 
-AI-powered multi-agent RAG platform that helps Indian businesses navigate legal, tax, and business-compliance questions through specialized, document-grounded guidance.
+<br /><br />
 
-| Area | Details |
-| :--- | :--- |
-| **Stack** | React 19, Vite, FastAPI, LangChain, Llama 3.3 70B, Pinecone, Gemini embeddings |
-| **Scale** | Multi-agent query routing across Legal, Tax, and General assistance flows |
-| **Performance** | Semantic retrieval designed to ground responses in uploaded and indexed documentation |
-| **Security** | Business-profile context, conversation history, and controlled PDF upload workflows |
-| **Impact** | Streamlines access to complex compliance information for business users |
-| **Repository** | [View GitHub profile](https://github.com/Bilal-03) |
+<code>Next.js</code> <code>React</code> <code>Supabase</code>
 
-I explored a responsive React experience with a FastAPI service layer, routing requests to relevant specialist agents and using vector search to keep answers anchored in source material.
+</td>
+<td width="50%" valign="top">
 
-</details>
+<h3>FinAssist</h3>
 
-<details>
-<summary><b>Handovr - Verified Phone Marketplace</b></summary>
-<br>
+A virtual finance assistant combining market information, financial utilities, calculators, news and everyday money tools.
 
-Full-stack marketplace for buying and selling verified second-hand phones across Delhi NCR, designed around trust, device transparency, and an end-to-end handover flow.
+<a href="https://vfa-9tbs.onrender.com">Live product ↗</a> ·
+<a href="https://github.com/Bilal-03/vfa">GitHub ↗</a>
 
-| Area | Details |
-| :--- | :--- |
-| **Stack** | Next.js, React, Supabase |
-| **Scale** | Seller-buyer discovery, listings, matching, and transaction workflow |
-| **Performance** | Server-rendered product experience with responsive, streamlined listing flows |
-| **Security** | Escrow-payment design and a 16-point device-verification workflow |
-| **Impact** | Creates stronger buyer and seller confidence in pre-owned-device transactions |
-| **Repository** | [View GitHub profile](https://github.com/Bilal-03) |
+<br /><br />
 
-The project explores how listing discovery, verification, payment safeguards, and handover can work together as one trustworthy product journey.
+<code>Python</code> <code>Flask</code> <code>JavaScript</code> <code>REST APIs</code>
 
-</details>
+</td>
+</tr>
 
-<details>
-<summary><b>FinAssist - Virtual Finance Assistant</b></summary>
-<br>
+<tr>
+<td width="50%" valign="top">
 
-Finance dashboard that brings market data, calculators, and aggregated news into one focused interface for everyday financial exploration.
+<h3>BizGuide AI</h3>
 
-| Area | Details |
-| :--- | :--- |
-| **Stack** | Python, Flask, JavaScript, RSS integrations |
-| **Scale** | 15+ integrated utilities, including stock, NAV, currency, commodity, and calculator tools |
-| **Performance** | Parallel RSS fetching for multi-source market-news aggregation |
-| **Security** | Server-side integration layer for external data services |
-| **Impact** | Consolidates common finance utilities into a single accessible dashboard |
-| **Repository** | [View GitHub profile](https://github.com/Bilal-03) |
+A document-grounded compliance assistant for Indian businesses using specialist flows, business context and retrieval-augmented generation.
 
-Built as a practical product experiment with SIP, EMI, FD, and Zakat calculators alongside live market-oriented utilities.
+<a href="https://businessrag.vercel.app">Live product ↗</a> ·
+<a href="https://github.com/Bilal-03/businessrag">GitHub ↗</a>
 
-</details>
+<br /><br />
+
+<code>React</code> <code>FastAPI</code> <code>LangChain</code> <code>Pinecone</code>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>KarobarKit</h3>
+
+A task-oriented business toolkit helping operators discover calculators, generators and practical tools for everyday work.
+
+<a href="https://karobarkit.vercel.app">Live product ↗</a> ·
+<a href="https://github.com/Bilal-03/karobarkit">GitHub ↗</a>
+
+<br /><br />
+
+<code>React</code> <code>TypeScript</code> <code>Workflow UX</code>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3>CRM Pro</h3>
+
+A sales operations workspace for pipeline management, activities, automation, reporting and clearer follow-through.
+
+<a href="https://crm-sepia-chi-24.vercel.app">Live product ↗</a> ·
+<a href="https://github.com/Bilal-03/crm">GitHub ↗</a>
+
+<br /><br />
+
+<code>React</code> <code>Vite</code> <code>PostgreSQL</code> <code>Tailwind CSS</code>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>Invoice Intelligence</h3>
+
+An accounts-payable workflow for invoice extraction, validation, human review, duplicate detection and payment visibility.
+
+<a href="https://invoice-extraction-lac.vercel.app">Live product ↗</a> ·
+<a href="https://github.com/Bilal-03/invoice-extraction">GitHub ↗</a>
+
+<br /><br />
+
+<code>Python</code> <code>FastAPI</code> <code>OCR</code> <code>React</code>
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## Experience
 
-### Software Development Intern | Techpanion Solutions
-
-`Jun 2024 - Jul 2024` &nbsp; `Remote`
-
-Built an AI-powered invoice-extraction microservice for enterprise procurement workflows, turning unstructured invoice images into validated business data.
-
-- Designed a four-stage pipeline: image preprocessing, OCR, NER extraction, and validation.
-- Combined regex patterns with custom NER models to capture invoice numbers, vendors, dates, and amounts.
-- Delivered **84% extraction accuracy** across diverse invoice formats with approximately **4-second** document processing.
-
-`Python` `Flask` `OpenCV` `Tesseract OCR` `spaCy` `REST APIs`
-
-### Software Development Intern | iCtrlBiz Consulting
-
-`Aug 2023 - Dec 2023` &nbsp; `Noida, India`
-
-Developed a CRM and lead-management product with a focus on operational clarity, real-time collaboration, and efficient sales workflows.
-
-- Built a drag-and-drop pipeline that supported management of **500+ leads**.
-- Implemented secure multi-user authentication, real-time analytics, meeting scheduling, filtering, and CSV export.
-- Delivered a responsive interface with a **95+ Lighthouse score** and workflow improvements estimated at **40%**.
-
-`React` `Supabase` `PostgreSQL` `Tailwind CSS` `JavaScript`
+| Role | Focus |
+| :--- | :--- |
+| **Project Manager · Digital Data Solution Pvt Ltd** | Planning and coordinating scanning, digitisation and quality-controlled operational workflows |
+| **Founder · Handovr** | Building a verified marketplace for second-hand phone transactions |
+| **AI & Automation Intern · NimbleS2P by Techpanion** | Invoice intelligence, OCR, extraction, validation and accounts-payable workflows |
+| **Product & Business Systems Intern · iCtrlBiz Consulting** | CRM, sales pipelines, activities, dashboards and business process management |
 
 ---
 
-## Achievements
+## Education & Certifications
 
-<div align="center">
+**B.Tech in Computer Science and Engineering — AI & ML**  
+Vellore Institute of Technology · 2021–2025
 
-| Recognition | Details |
-| :---: | :--- |
-| Academic achievement | Secured a Top 3 position in school academics for Classes 10 and 12 |
-| Student leadership | School Captain and School Council Committee member for three consecutive years |
-| Community contribution | Operations Team Member, Business Club - coordinated technology events and workshops |
-
-</div>
-
----
-
-## Certifications
-
-<div align="center">
-
-**AWS** &nbsp; ![Cloud Learning](https://img.shields.io/badge/AWS-Cloud%20Learning-4C1D95?style=flat-square&logo=amazonaws&logoColor=white)
-
-**Oracle** &nbsp; ![Database Learning](https://img.shields.io/badge/Oracle-Database%20Learning-5B21B6?style=flat-square&logo=oracle&logoColor=white)
-
-**NPTEL / IIT Bombay** &nbsp; ![Python Programming](https://img.shields.io/badge/IIT%20Bombay-Python%20Programming-6D28D9?style=flat-square&logo=python&logoColor=white) ![C Programming](https://img.shields.io/badge/IIT%20Bombay-C%20Programming-6D28D9?style=flat-square&logo=c&logoColor=white)
-
-**Cisco** &nbsp; ![Network Simulation](https://img.shields.io/badge/Cisco-Packet%20Tracer%20%2F%20Network%20Simulation-4338CA?style=flat-square&logo=cisco&logoColor=white)
-
-**NVIDIA** &nbsp; ![AI for All](https://img.shields.io/badge/NVIDIA-AI%20for%20All%3A%20GenAI%20Practice-312E81?style=flat-square&logo=nvidia&logoColor=white)
-
-</div>
-
----
-
-## GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Bilal-03&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=E9D5FF" alt="Bilal's GitHub statistics" />
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bilal-03&theme=github_dark" alt="Bilal's GitHub summary" />
-
-<br>
-
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Bilal-03&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E9D5FF" alt="Bilal's top languages" />
-
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-
-![Public Repositories](https://img.shields.io/badge/PUBLIC%20REPOSITORIES-8-6D28D9?style=for-the-badge&labelColor=312E81)
-![GitHub Followers](https://img.shields.io/github/followers/Bilal-03?style=for-the-badge&label=GITHUB%20FOLLOWERS&color=6D28D9&labelColor=312E81)
-![Profile Stars](https://img.shields.io/github/stars/Bilal-03?affiliations=OWNER&style=for-the-badge&label=PROFILE%20STARS&color=6D28D9&labelColor=312E81)
-
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bilal-03&bg_color=0D1117&color=C4B5FD&line=8B5CF6&point=DDD6FE&area=true&area_color=4C1D95&hide_border=true" alt="Contribution activity graph" />
-
-</div>
-
----
-
-## Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Bilal-03/Bilal-03/output/github-contribution-grid-snake-dark.svg?v=20260729" alt="Snake animation of GitHub contribution grid" />
-
-</div>
+- Python Programming — IIT Bombay
+- C Programming — IIT Bombay
+- Cisco Packet Tracer / Network Simulation
+- AI for All: From Basics to GenAI Practice — NVIDIA
 
 ---
 
 ## Current Focus
 
-```yaml
+~~~yaml
+working_on:
+  - Product experiments that turn messy workflows into clearer systems
+  - Business tools, analytics dashboards and AI-enabled applications
+
 learning:
-  - Product management, business thinking, and user discovery
-  - AI-assisted development and agentic AI workflows
-building:
-  - Useful product experiments with scalable foundations
-exploring:
-  - Applied AI, automation, and technology-enabled business ideas
+  - Product discovery and prioritisation
+  - Product analytics and operational measurement
+  - RAG evaluation and document-grounded AI
+  - AI-assisted development workflows
+
+interested_in:
+  - Product management
+  - Product analytics
+  - Applied AI
+  - Business systems
+  - Early-stage product building
+
 open_to:
-  - Product-minded teams, early-stage ideas, and collaborations
-  - Learning opportunities at the intersection of tech and business
-```
+  - Product and analytics opportunities
+  - AI-enabled product collaborations
+  - Practical teams building useful technology
+~~~
 
 ---
 
-## Connect
+## GitHub Activity
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-bilal3512%40gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bilal3512@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-bilal2012-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bilal2012)
-[![GitHub](https://img.shields.io/badge/GitHub-Bilal--03-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bilal-03)
-[![Portfolio](https://img.shields.io/badge/Portfolio-bilalchoudhary.vercel.app-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://bilalchoudhary.vercel.app)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Bilal-03&show_icons=true&hide_border=true&bg_color=FFFDF8&title_color=0B6B58&icon_color=D97962&text_color=676A62&cache_seconds=1800" alt="Bilal's GitHub statistics" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bilal-03&layout=compact&hide_border=true&bg_color=FFFDF8&title_color=0B6B58&text_color=676A62&cache_seconds=1800" alt="Bilal's most used languages" />
 
 </div>
 
 ---
 
+## Let’s Connect
+
 <div align="center">
 
-> "Start with the problem, build what is useful, and keep learning in public."
+If you are working on a useful product, an interesting business problem or an AI-enabled workflow, I would be happy to connect.
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:170B3B,45:4C1D95,100:7C3AED&height=120&section=footer)
+<br />
+
+[![Email](https://img.shields.io/badge/bilal3512%40gmail.com-Get%20in%20touch-D97962?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bilal3512@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin.com%2Fin%2Fbilal2012-Connect-0B6B58?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bilal2012)
+[![Portfolio](https://img.shields.io/badge/bilalchoudhary.vercel.app-View%20portfolio-171916?style=for-the-badge&logo=vercel&logoColor=white)](https://bilalchoudhary.vercel.app)
+
+<br /><br />
+
+> Start with the problem. Build what is useful. Keep learning in public.
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:063B32,50:0B6B58,100:D97962&height=120&section=footer)
 
 </div>
