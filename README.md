@@ -58,8 +58,46 @@ Currently, I am working as a Project Manager while building product experiments 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
 
-</div>
+---
 
+## 🌟 Soft Skills
+- 💡 Innovative Problem-Solving  
+- ⏳ Effective Time Management  
+- 🗣 Strong Communication Skills  
+- ✅ Confident Decision-Making  
+- 🤝 Team Collaboration
+  
+---
+</div>
+## 📈 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bilal-03&theme=radical" alt="GitHub Streak" height="180"/>
+</p>
+
+---
+
+## 📊 GitHub Overview
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bilal-03&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bilal-03&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bilal-03&theme=radical" />
+</p>
+
+
+--- 
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bilal-03&theme=radical" alt="GitHub Activity Graph"/>
+</p>
+
+---
 ---
 
 ## Selected Projects
