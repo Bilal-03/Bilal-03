@@ -37,8 +37,6 @@ Currently, I am working as a Project Manager while building product experiments 
 
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -59,18 +57,6 @@ Currently, I am working as a Project Manager while building product experiments 
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
-
-## Tech Stack
-
-<div align="center">
-
-### Languages & Application Development
-
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,vite" alt="Python, TypeScript, JavaScript, React, Next.js and Vite" />
-
-### Backend, Data & Infrastructure
-
-<img src="https://skillicons.dev/icons?i=fastapi,flask,postgres,supabase,docker,git,github" alt="FastAPI, Flask, PostgreSQL, Supabase, Docker, Git and GitHub" />
 
 <br />
 
