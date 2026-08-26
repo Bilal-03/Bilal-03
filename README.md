@@ -60,10 +60,6 @@ Currently, I am working as a Project Manager while building product experiments 
 
 <br />
 
-![Product Analytics](https://img.shields.io/badge/Product%20Analytics-KPIs%20%7C%20Funnels%20%7C%20Reporting-0B6B58?style=flat-square)
-![RAG](https://img.shields.io/badge/Applied%20AI-RAG%20%7C%20Embeddings%20%7C%20Retrieval-0B6B58?style=flat-square)
-![Document AI](https://img.shields.io/badge/Document%20AI-OCR%20%7C%20Extraction%20%7C%20Validation-D97962?style=flat-square)
-![Automation](https://img.shields.io/badge/Automation-Business%20Workflows-D97962?style=flat-square)
 
 </div>
 
