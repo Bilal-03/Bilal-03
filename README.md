@@ -58,9 +58,6 @@ Currently, I am working as a Project Manager while building product experiments 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
 
-<br />
-
-
 </div>
 
 ---
