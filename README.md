@@ -68,8 +68,6 @@ Currently, I am working as a Project Manager while building product experiments 
 - 🤝 Team Collaboration
   
 ---
-</div>
----
 ## 📈 GitHub Stats & Activity
 
 <p align="center">
