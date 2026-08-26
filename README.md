@@ -34,33 +34,6 @@ Currently, I am working as a Project Manager while building product experiments 
 
 ---
 
-## What I Build
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Product & Business Systems
-
-I translate messy business processes into clearer workflows, useful interfaces and measurable product decisions.
-
-`Problem framing` `Requirements` `User flows` `Prioritisation` `Business analysis` `Product metrics`
-
-</td>
-<td width="50%" valign="top">
-
-### Applied AI & Automation
-
-I use AI where it improves a real workflow — from retrieval and extraction to automation and decision support.
-
-`RAG` `Document AI` `OCR` `LLM applications` `Workflow automation` `AI prototyping`
-
-</td>
-</tr>
-</table>
-
----
-
 ## Tech Stack
 
 <div align="center">
@@ -180,29 +153,6 @@ An accounts-payable workflow for invoice extraction, validation, human review, d
 </td>
 </tr>
 </table>
-
----
-
-## Experience
-
-| Role | Focus |
-| :--- | :--- |
-| **Project Manager · Digital Data Solution Pvt Ltd** | Planning and coordinating scanning, digitisation and quality-controlled operational workflows |
-| **Founder · Handovr** | Building a verified marketplace for second-hand phone transactions |
-| **AI & Automation Intern · NimbleS2P by Techpanion** | Invoice intelligence, OCR, extraction, validation and accounts-payable workflows |
-| **Product & Business Systems Intern · iCtrlBiz Consulting** | CRM, sales pipelines, activities, dashboards and business process management |
-
----
-
-## Education & Certifications
-
-**B.Tech in Computer Science and Engineering — AI & ML**  
-Vellore Institute of Technology · 2021–2025
-
-- Python Programming — IIT Bombay
-- C Programming — IIT Bombay
-- Cisco Packet Tracer / Network Simulation
-- AI for All: From Basics to GenAI Practice — NVIDIA
 
 ---
 
