@@ -69,6 +69,7 @@ Currently, I am working as a Project Manager while building product experiments 
   
 ---
 </div>
+---
 ## 📈 GitHub Stats & Activity
 
 <p align="center">
