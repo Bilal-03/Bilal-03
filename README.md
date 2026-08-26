@@ -87,16 +87,6 @@ Currently, I am working as a Project Manager while building product experiments 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bilal-03&theme=radical" />
 </p>
 
-
---- 
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bilal-03&theme=radical" alt="GitHub Activity Graph"/>
-</p>
-
----
 ---
 
 ## Selected Projects
@@ -223,18 +213,6 @@ open_to:
   - AI-enabled product collaborations
   - Practical teams building useful technology
 ~~~
-
----
-
-## GitHub Activity
-
-<div align="center">
-
-[![GitHub followers](https://img.shields.io/github/followers/Bilal-03?label=Followers&style=for-the-badge&color=0B6B58)](https://github.com/Bilal-03?tab=followers)
-[![GitHub repositories](https://img.shields.io/badge/Repositories-Explore-171916?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bilal-03?tab=repositories)
-[![GitHub activity](https://img.shields.io/badge/View%20activity-Open%20GitHub-0B6B58?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bilal-03?tab=overview)
-
-</div>
 
 ---
 
